@@ -16,4 +16,4 @@
 ## Ghi chú thêm
 - Khó khăn gặp phải:Em không gặp khó khăn nào cả
 - Cách em xử lý:em không có
-- Điều em học được từ bài lab:Em đã học được nhiều thứ 
+- Điều em học được từ bài lab:Em đã học được nhiều thứ
